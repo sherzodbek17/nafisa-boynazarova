@@ -216,6 +216,7 @@ body {
         z-index: 10;
         display: flex;
         justify-content: flex-start;
+        font-size: 15px;
     }
 }
 
